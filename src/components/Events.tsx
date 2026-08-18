@@ -60,40 +60,20 @@ const EventModal: React.FC<EventModalProps> = ({ isOpen, onClose, day }) => {
 
   const eventForms: EventFormType = {
     "Day 1": [
-      {
-        title: "EDC Onboarding",
-        venue: "Parthasarathy Auditorium",
-        time: "09:30 AM - 09:45 AM",
-        description: "Onboarding ceremony for new members of the Entrepreneurship Development Cell.",
-        formLink: "https://forms.gle/BxwC2exYEfmqQQ8v7",
-      },
-      {
-        title: "Keynote Session 1 (FN)",
-        venue: "Kaveri Auditorium",
-        time: "10:30 AM - 12:00 PM",
-        description: "Inaugural keynote by esteemed industry leaders and dignitaries.",
-        formLink: "https://forms.gle/BxwC2exYEfmqQQ8v7",
-      },
-      {
-        title: "Panel discussion (AN)",
-        venue: "Kaveri Auditorium",
-        time: "01:00 PM - 03:00 PM",
-        description: "An engaging panel discussion with experts on the future of innovation and startups.",
-        formLink: "https://forms.gle/BxwC2exYEfmqQQ8v7",
-      },
+      
       {
         title: "Deep Sprint Hackathon",
         venue: "Parthasarathy Auditorium",
         time: "Sep 01 (11:30 AM - Sep 02 12:30 PM)",
         description: "A 25-hour deep-tech hackathon featuring tracks in Additive Manufacturing, Biomedical, Robotics, and more.",
-        formLink: "https://forms.gle/BxwC2exYEfmqQQ8v7",
+        formLink: "https://docs.google.com/forms/d/e/1FAIpQLSeU7Pe9VXV0zCQnSODBmiaz2JhmV1q7RpzVwqyuOIGLrbYZZA/viewform",
       },
       {
         title: "Product showcase",
         venue: "Centre of Excellences",
         time: "From 11:00 AM onwards",
         description: "Live showcase of innovative products, technologies and solutions.",
-        formLink: "https://forms.gle/BxwC2exYEfmqQQ8v7",
+        formLink: "https://docs.google.com/forms/d/e/1FAIpQLSdu68elLaHc1VesbvnwBkXp6Zm6GG84Dt5-FgWJrxCtCKqA3Q/viewform",
       },
     ],
     "Day 3": [
@@ -102,29 +82,23 @@ const EventModal: React.FC<EventModalProps> = ({ isOpen, onClose, day }) => {
         venue: "Bonfiglioli Conf hall",
         time: "10:00 AM - 03:00 PM",
         description: "Where Startups Take the Stage – pitch to investors, incubators, industry experts, and mentors. Get visibility, feedback, and funding connections.",
-        formLink: "https://docs.google.com/forms/d/e/...",
+        formLink: "https://docs.google.com/forms/d/e/1FAIpQLSfdLgVS_sbgX6q7MS3doSWCWV-vUGkF0rFh9nNv8totT1bICg/viewform",
       },
       {
         title: "Product show case",
         venue: "Centre of Excellences",
         time: "09:00 AM - 03:00 PM",
         description: "Continuous showcase of innovative products, allowing startups and innovators to demonstrate their work.",
-        formLink: "https://forms.gle/...",
+        formLink: "https://docs.google.com/forms/d/e/1FAIpQLSdu68elLaHc1VesbvnwBkXp6Zm6GG84Dt5-FgWJrxCtCKqA3Q/viewform",
       },
       {
-        title: "DPIT- Mentor Connect",
+        title: "DPIIT- Mentor Connect",
         venue: "Parthasarathy Auditorium",
         time: "10:00 AM - 01:00 PM",
         description: "Connect. Pitch. Grow. In association with StartupTN – network with DPIIT and industry mentors to accelerate your venture.",
-        formLink: "https://forms.gle/...",
+        formLink: "https://docs.google.com/forms/d/1X1rGGuA4RbusVBl8eLkY0SEiC7wbeoh_UOYqoeEpMT4/viewform?edit_requested=true",
       },
-      {
-        title: "Innovest Validictory & CITIL Innovation Grant",
-        venue: "Parthasarathy Auditorium",
-        time: "02:00 PM - 02:30 PM",
-        description: "Empowering ideas, enabling innovation, creating impact. The closing ceremony of Innovest 3.0 where the CITIL Innovation Grants are awarded.",
-        formLink: "https://forms.gle/...",
-      },
+      
     ],
   };
 
