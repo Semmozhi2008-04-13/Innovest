@@ -181,7 +181,7 @@ const Events = () => {
     {
       date: "September 2, 2026",
       day: "Day 2",
-      theme: "Building Deep‑Tech Solutions",
+      theme: "Building Deep ‑ Tech Solutions",
       events: [
         { title: "Keynote Session 2 ", venue: "Kaveri Auditorium", time: "09:00 AM - 10:00 AM" },
         { title: "Deep Sprint Hackathon (Round 2)", venue: "Parthasarathy Auditorium", time: "10:30 AM" },
