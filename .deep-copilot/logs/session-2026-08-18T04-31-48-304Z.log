@@ -1,6 +1,0 @@
-[2026-08-18T04:31:48.305Z] [INIT] Deep Copilot debug log started. file=c:\Users\asemm\Videos\New folder\citinnovest.com-main\.deep-copilot\logs\session-2026-08-18T04-31-48-304Z.log
-[2026-08-18T04:31:48.305Z] [ACTIVATE] {"version":"0.43.1"}
-[2026-08-18T04:31:48.306Z] [PROVIDERS_LOADED] {"count":4,"ids":["anthropic","custom","deepseek","openai"]}
-[2026-08-18T04:31:48.307Z] [TERMINAL_MONITOR_STARTED] {}
-[2026-08-18T04:31:48.307Z] [STATUSBAR_REGISTERED] {"id":"deepseekAgent.statusBar"}
-[2026-08-18T04:31:48.312Z] [INLINE_COMPLETION_REGISTERED]
